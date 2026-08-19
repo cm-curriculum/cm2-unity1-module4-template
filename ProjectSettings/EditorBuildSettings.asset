@@ -32,4 +32,23 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Solutions/Game Scene.unity
     guid: 2be4cc4c200910348a413140e0f61249
+  - enabled: 1
+    path: Assets/Solutions/Level 1.unity
+    guid: 163df4520ac097746a37695cf1a5ed8c
+  - enabled: 1
+    path: Assets/Solutions/Level 2.unity
+    guid: df4536b430942b8499a62d48fd1d9fca
+  - enabled: 1
+    path: Assets/Solutions/Menu Scene.unity
+    guid: 3523f8e07a8fd0e4c99ef83eb6351cbe
+  - enabled: 1
+    path: Assets/Solutions/SampleScene.unity
+    guid: 1b858a9697e9f9a4abd6d836a2113649
+  - enabled: 1
+    path: Assets/Solutions/Scene A.unity
+    guid: bb19e49e9509cf64da6ea767224ebd9c
+  - enabled: 1
+    path: Assets/Solutions/Scene B.unity
+    guid: e399d16f48648b54f80568971116db59
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
